@@ -31,7 +31,7 @@
 ![PavlinPenev's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlinPenev)
 
 ### Most used languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlinPenev&theme=blue-green)<p></p><p></p>
+![PavlinPenev's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlinPenev)<p></p><p></p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PavlinPenev)
 
