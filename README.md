@@ -1,7 +1,7 @@
 ### Hi there 👋
   Nice to meet you! Feel free to contact me anytime!
   A software engineer @CoBuilder currently:
-- 🌱 learning:<p>\n</p>
+- 🌱 learning:
       ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
       ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
       ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
