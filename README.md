@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/pavlinpenev/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### GitHub stats
-![image](https://github-readme-stats.vercel.app/api?username=PavlinPenev)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PavlinPenev&show_icons=true)
 
 ### Most used languages
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlinPenev)<p></p><p></p>
