@@ -42,5 +42,4 @@
 ![image](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
 ![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-<p></p>
 - You can message me to play some games if I can find the time to! <3
