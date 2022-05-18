@@ -36,11 +36,11 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PavlinPenev)
 
 ### ⚡ Fun fact: 
- I like playing video games :D <p></p>
+- I like playing video games :D <p></p>
 ![image](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![image](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
 ![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 <p></p>
-You can message me to play some games if I can find the time to! <3
+- You can message me to play some games if I can find the time to! <3
