@@ -31,7 +31,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PavlinPenev&show_icons=true)
 
 ### Most used languages
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlinPenev)<p></p><p></p>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlinPenev&theme=blue-green)<p></p><p></p>
 
 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPavlinPenev1212%2Fhit-counter)
 
