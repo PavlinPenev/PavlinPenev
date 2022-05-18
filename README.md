@@ -28,18 +28,19 @@
 <a href="https://www.linkedin.com/in/pavlinpenev/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### GitHub stats
-https://github-readme-stats.vercel.app/api?username=PavlinPenev
+![image](https://github-readme-stats.vercel.app/api?username=PavlinPenev)
 
 ### Most used languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=PavlinPenev
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlinPenev)<p></p><p></p>
 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPavlinPenev1212%2Fhit-counter
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPavlinPenev1212%2Fhit-counter)
 
 ### ⚡ Fun fact: 
- I like playing video games :D 
+ I like playing video games :D <p></p>
 ![image](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![image](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
 ![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+<p></p>
 You can message me to play some games if I can find the time to! <3
