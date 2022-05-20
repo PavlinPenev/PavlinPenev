@@ -35,7 +35,7 @@
 </p>
 <p></p><p></p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=PavlinPenev)
+![Profile View Counter](https://komarev.com/ghpvc/?username=PavlinPenev&style=for-the-badge&color=brightgreen)
 
 ### ⚡ Fun fact: 
 - I like playing video games :D <p></p>
