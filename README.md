@@ -21,8 +21,9 @@
       ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
       ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - 👯 also working on a personal projects:<p></p>
-      - 1. Focusing over the parenthood using mainly ASP.NET, EF Core and Angular
-      - 2. Digitalization of a board game for couples
+
+      1. Focusing over the parenthood using mainly ASP.NET, EF Core and Angular
+      2. Digitalization of a board game for couples
 
 ### 📫 Contacts and how to reach me:<p></p>
 <a href="https://github.com/PavlinPenev">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
