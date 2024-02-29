@@ -1,6 +1,6 @@
 ### Hi there 👋
   Nice to meet you! Feel free to contact me anytime!<p></p>
-  A software engineer @WeLoveDigi experienced in:
+  A software engineer and Tech Lead @WeLoveDigi experienced in:
 - 🌱 <p></p>
       ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
       ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
